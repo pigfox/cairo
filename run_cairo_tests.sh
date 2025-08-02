@@ -1,5 +1,8 @@
 #!/bin/bash
-
+clear
+./prompt.sh
+scarb --version
+snforge --version
 # ----------------------------
 # Configuration (edit this)
 # ----------------------------
