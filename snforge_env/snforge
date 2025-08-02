@@ -1,0 +1,3 @@
+#!/bin/bash
+export PATH="/home/peter/.starknet-foundry/bin:$PATH"
+exec "/home/peter/.cargo/bin/snforge" "$@"

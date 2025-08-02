@@ -1,0 +1,28 @@
+# Rust
+/target
+**/target
+**/*.rs.bk
+
+# Cairo
+**/*.json
+**/*.sierra
+**/*.contract_class.json
+**/*.starknet_artifacts.json
+**/Scarb.lock
+
+# Python
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+package-lock.json
+
+# VSCode
+.vscode/
+
+# Misc
+*.log
+*.tmp
+*.bak
+.DS_Store
